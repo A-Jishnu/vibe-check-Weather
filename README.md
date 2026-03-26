@@ -104,5 +104,3 @@ npm start
 ```
 
 ---
-
-Made with 💜 by Jarvis
